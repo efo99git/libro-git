@@ -3,4 +3,4 @@ sexo=input("¿Eres Hombre o Mujer?: ")
 if nombre> nombre["M"]:
     print("Grupo A")
 else:
-    print("Error")
+    print("Error")`´p+ç`
